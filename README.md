@@ -92,6 +92,4 @@ AlpAI-SSP/
 ### Future Directions
 
 * Integration of attention mechanisms or transformers for better long-range pattern recognition.
-* Experimentation with CRF or structured prediction techniques for output refinement.
-* Evaluation on external benchmark datasets and generalization studies.
 * Transition from 3-class (Q3: H, E, C) to 8-class (Q8: H, G, I, E, B, T, S, C) secondary structure prediction for more granular modeling.
