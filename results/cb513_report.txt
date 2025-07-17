@@ -1,0 +1,11 @@
+CB513 Accuracy: 81.65%
+
+              precision    recall  f1-score   support
+
+           H       0.66      0.81      0.73     37224
+           E       0.41      0.86      0.55     23562
+           C       0.99      0.81      0.89    192582
+
+    accuracy                           0.82    253368
+   macro avg       0.69      0.83      0.72    253368
+weighted avg       0.89      0.82      0.84    253368

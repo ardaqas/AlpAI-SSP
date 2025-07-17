@@ -1,0 +1,11 @@
+TS115 Accuracy: 82.91%
+
+              precision    recall  f1-score   support
+
+           H       0.66      0.89      0.76     10137
+           E       0.43      0.84      0.57      5054
+           C       0.99      0.81      0.90     46081
+
+    accuracy                           0.83     61272
+   macro avg       0.70      0.85      0.74     61272
+weighted avg       0.89      0.83      0.85     61272
