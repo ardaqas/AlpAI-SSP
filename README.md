@@ -1,4 +1,3 @@
-````markdown
 # AlpAI-SSP  
 CNN-BiLSTM based protein secondary structure prediction model
 
@@ -57,7 +56,7 @@ python train.py
 
 # Evaluation and visualization
 python evaluate.py
-````
+```
 
 This script evaluates the model on validation and benchmark datasets, and generates all metrics and plots under the `results/` directory.
 
@@ -96,6 +95,3 @@ AlpAI-SSP/
 * Experimentation with CRF or structured prediction techniques for output refinement.
 * Evaluation on external benchmark datasets and generalization studies.
 * Transition from 3-class (Q3: H, E, C) to 8-class (Q8: H, G, I, E, B, T, S, C) secondary structure prediction for more granular modeling.
-
-```
-```
