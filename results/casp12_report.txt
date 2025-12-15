@@ -1,11 +1,18 @@
-CASP12 Accuracy: 81.65%
+Accuracy: 0.7938
+Macro F1: 0.7937
 
               precision    recall  f1-score   support
 
-           H       0.57      0.84      0.68      1090
-           E       0.45      0.90      0.60       870
-           C       0.99      0.80      0.89      7424
+           H     0.8244    0.8539    0.8389      2204
+           E     0.7899    0.7632    0.7763      1478
+           C     0.7700    0.7619    0.7659      2738
 
-    accuracy                           0.82      9384
-   macro avg       0.67      0.85      0.72      9384
-weighted avg       0.89      0.82      0.84      9384
+    accuracy                         0.7938      6420
+   macro avg     0.7948    0.7930    0.7937      6420
+weighted avg     0.7933    0.7938    0.7934      6420
+
+
+Class distribution in True labels:
+H: 2204.0 (34.33%)
+E: 1478.0 (23.02%)
+C: 2738.0 (42.65%)
